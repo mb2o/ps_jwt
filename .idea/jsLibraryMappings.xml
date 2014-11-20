@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/app/scripts/directives/validateEquals.js" libraries="{angular-ui-DefinitelyTyped, angularjs-DefinitelyTyped}" />
+    <file url="file://$PROJECT_DIR$/app/views/register.html" libraries="{angular-ui-DefinitelyTyped, angularjs-DefinitelyTyped}" />
+    <file url="PROJECT" libraries="{gruntjs-DefinitelyTyped}" />
+  </component>
+</project>
+
